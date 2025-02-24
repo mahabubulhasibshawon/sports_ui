@@ -13,7 +13,6 @@ ThemeData darkTheme = ThemeData(
   brightness: Brightness.dark,
   scaffoldBackgroundColor: Colors.black,
   primaryColor: Colors.black,
-
   textTheme: const TextTheme(
     bodyLarge: TextStyle(fontSize: 18, color: Colors.white),
   ),
