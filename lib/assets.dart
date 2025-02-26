@@ -10,4 +10,11 @@ class Assets {
 
   static const String bd = 'assets/bd.png';
   static const String ind = 'assets/ind.png';
+  static const String csk = 'assets/csk.png';
+  static const String mi = 'assets/mumbai.png';
+  static const String melboune= 'assets/melborne.png';
+  static const String srilanka = 'assets/srilanka.png';
+  static const String sydney = 'assets/sydney.png';
+  static const String wi = 'assets/west_indies.png';
+  static const String vs = 'assets/vs.png';
 }

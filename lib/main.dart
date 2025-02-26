@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:sport_ui/presentation/home_screen/home_screen.dart';
+import 'package:sport_ui/presentation/live_matches_list_screen/live_matches_list_screen.dart';
+import 'package:sport_ui/presentation/match_details_screen/match_details_screen.dart';
 import 'package:sport_ui/theme.dart';
 
 void main() {
@@ -13,8 +15,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: darkTheme,
-      home: HomeScreen(),
+      theme: lightTheme,
+      home: MatchDetailsScreen(),
     );
   }
 }
