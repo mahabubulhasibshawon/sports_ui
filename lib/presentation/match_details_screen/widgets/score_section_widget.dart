@@ -144,23 +144,7 @@ class ScoreSectionWidget extends StatelessWidget {
             ),
           ),
           const SizedBox(height: 12),
-          const Align(
-            alignment: Alignment.centerLeft,
-            child: Text(
-              'Last 10 Balls',
-              style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold),
-            ),
-          ),
-          const SizedBox(height: 8),
-          const LastBallsRow(),
-          const SizedBox(height: 16),
-          const BatsmanSection(),
-          const SizedBox(height: 16),
-          const CurrentPartnershipSection(),
-          const SizedBox(height: 16),
-          const BowlerSection(),
-          const SizedBox(height: 12),
-          const FullScorecardButton(),
+
         ],
       ),
     );

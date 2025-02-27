@@ -8,10 +8,7 @@ class BatsmanSection extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        const Text(
-          'Batsman',
-          style: TextStyle(color: Colors.grey, fontSize: 12),
-        ),
+
         Container(
           padding: const EdgeInsets.only(bottom: 8),
           decoration: const BoxDecoration(
@@ -19,7 +16,10 @@ class BatsmanSection extends StatelessWidget {
           ),
           child: Row(
             children: [
-              Expanded(flex: 4, child: Container()),
+              Expanded(flex: 4, child: const Text(
+                'Batsman',
+                style: TextStyle(color: Colors.grey, fontSize: 12),
+              ),),
               const Expanded(
                 flex: 1,
                 child: Text(
