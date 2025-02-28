@@ -3,7 +3,6 @@ import 'package:sport_ui/presentation/home_screen/home_screen.dart';
 import 'package:sport_ui/presentation/live_matches_list_screen/live_matches_list_screen.dart';
 import 'package:sport_ui/presentation/match_details_screen/match_details_screen.dart';
 import 'package:sport_ui/theme.dart';
-
 import 'presentation/match_details_screen/scorecard_widgets/cricket_soccer.dart';
 
 void main() {

@@ -5,8 +5,7 @@ A new Flutter project.
 ## Screen shots
 ![sports_ui.png](assets%2Fsports_ui.png)
 ![matches_list_screen.png](assets%2Fmatches_list_screen.png)
-![sportsUI_match_detailas_screen-liveCommentrySection.png](assets%2FsportsUI_match_detailas_screen-liveCommentrySection.png)
-
+![Match Details.png](assets%2FMatch%20Details.png)
 
 https://github.com/user-attachments/assets/b7ded38f-5c60-45c5-99a9-38fa109f0224
 
